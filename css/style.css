@@ -1,0 +1,22 @@
+body {
+    background: rgb(225, 223, 232);
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h3 {
+    background: white;
+}
+.div{
+    margin: auto;
+    margin-top: 100px;
+    width: flex;
+}
+.th {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,6 +1,7 @@
 body {
     background: rgb(225, 223, 232);
     text-align: center;
+    border: 4px solid green;
 }
 img{
     width: 200px;
